@@ -11,7 +11,7 @@
 **Codewars:** [dpitalenko](https://www.codewars.com/users/rsschool_dpitalenko)
 
 ### About Myself:
-
+I am 23 years old. I have real experience in website and landing page layout. I am open to new knowledge and technologies that will help me become a highly qualified specialist. Also I have good interpersonal skills and I work well in a team.
 
 ### Experience
 **1C programmer**
