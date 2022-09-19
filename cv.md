@@ -3,18 +3,12 @@
 ## Junior Frontend Developer
 
 ### Contact information
-**Location:** Tbilisi, Georgia
-
-**Phone:** +995 599 18 47 33
-
-**Email:** dpitalenko27@gmail.com
-
-**Telegram:** [@kattavia](https://t.me/kattavia)
-
-**GitHub:** [dpitalenko](https://github.com/dpitalenko)
-
+**Location:** Tbilisi, Georgia  
+**Phone:** +995 599 18 47 33  
+**Email:** dpitalenko27@gmail.com  
+**Telegram:** [@kattavia](https://t.me/kattavia)  
+**GitHub:** [dpitalenko](https://github.com/dpitalenko)  
 **Codewars:** [dpitalenko](https://www.codewars.com/users/rsschool_dpitalenko)
-
 
 ### About Myself:
 
